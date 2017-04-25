@@ -1,6 +1,6 @@
 {
     "author": "kai zhu <kaizhu256@gmail.com>",
-    "description": "#### api documentation for  [roboto-fontface (v0.7.0)](https://github.com/choffmeister/roboto-fontface-bower)  [![npm package](https://img.shields.io/npm/v/npmdoc-roboto-fontface.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-roboto-fontface) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-roboto-fontface.svg)](https://travis-ci.org/npmdoc/node-npmdoc-roboto-fontface)",
+    "description": "#### basic api documentation for  [roboto-fontface (v0.7.0)](https://github.com/choffmeister/roboto-fontface-bower)  [![npm package](https://img.shields.io/npm/v/npmdoc-roboto-fontface.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-roboto-fontface) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-roboto-fontface.svg)](https://travis-ci.org/npmdoc/node-npmdoc-roboto-fontface)",
     "devDependencies": {
         "electron-lite": "kaizhu256/node-electron-lite#alpha",
         "roboto-fontface": "*",

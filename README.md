@@ -1,6 +1,6 @@
 # npmdoc-roboto-fontface
 
-#### api documentation for  [roboto-fontface (v0.7.0)](https://github.com/choffmeister/roboto-fontface-bower)  [![npm package](https://img.shields.io/npm/v/npmdoc-roboto-fontface.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-roboto-fontface) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-roboto-fontface.svg)](https://travis-ci.org/npmdoc/node-npmdoc-roboto-fontface)
+#### basic api documentation for  [roboto-fontface (v0.7.0)](https://github.com/choffmeister/roboto-fontface-bower)  [![npm package](https://img.shields.io/npm/v/npmdoc-roboto-fontface.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-roboto-fontface) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-roboto-fontface.svg)](https://travis-ci.org/npmdoc/node-npmdoc-roboto-fontface)
 
 #### A simple package providing the Roboto fontface.
 
@@ -62,7 +62,8 @@
     "scripts": {
         "test": "./test.sh"
     },
-    "version": "0.7.0"
+    "version": "0.7.0",
+    "bin": {}
 }
 ```
 
